@@ -1,0 +1,10 @@
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+*.bak
+*.tmp
+.DS_Store
+build/
+libraries/__pycache__/
