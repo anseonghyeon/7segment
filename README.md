@@ -45,5 +45,5 @@
 
 ## 💻 시범영상
 
-[![Watch the video](https://img.youtube.com/vi/c6TLsp0e6p4/0.jpg)](https://www.youtube.com/watch?v=c6TLsp0e6p4)
+[![Watch the video](https://img.youtube.com/vi/5XKUb0XrZ3k/0.jpg)](https://www.youtube.com/watch?v=5XKUb0XrZ3k)
 
